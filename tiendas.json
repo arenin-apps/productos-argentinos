@@ -243,6 +243,29 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "ice-cream-union",
+    "nombre": "The Ice Cream Union",
+    "tipo": "Heladería",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres (Chelsea)",
+    "direccion": "166 Pavilion Road, Chelsea, London, SW1X 0AW",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=166%20Pavilion%20Road%2C%20Chelsea%2C%20London%2C%20SW1X%200AW",
+    "telefono": "020 7237 9042",
+    "sitioWeb": "https://www.icecreamunion.com",
+    "redes": [],
+    "productos": [
+      "Helados",
+      "Dulce de leche"
+    ],
+    "envios": "Venta en el local",
+    "horario": null,
+    "descripcion": "Heladería en Pavilion Road, Chelsea, con helados de sabores argentinos como el dulce de leche, entre unos 20 sabores fijos y de temporada.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.493668,
+    "longitude": -0.158976
+  },
+  {
     "id": "torre-distillery",
     "nombre": "Torre Distillery – London Mate Dry Gin",
     "tipo": "Destilería",
