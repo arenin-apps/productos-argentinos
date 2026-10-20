@@ -352,6 +352,26 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "restinga-gin",
+    "nombre": "Restinga Gin",
+    "tipo": "Destilería",
+    "pais": "Reino Unido",
+    "county": null,
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://restingagin.co.uk/product/entre-montanas-patagonia/",
+    "redes": [],
+    "productos": [
+      "Gin"
+    ],
+    "envios": "Ver condiciones en su web",
+    "horario": null,
+    "descripcion": "Gin artesanal argentino nacido en Mar del Plata, inspirado en la costa atlántica. En su tienda para el Reino Unido vende el gin \"Entre Montañas Patagonian Edition\".",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "torre-distillery",
     "nombre": "Torre Distillery – London Mate Dry Gin",
     "tipo": "Destilería",
