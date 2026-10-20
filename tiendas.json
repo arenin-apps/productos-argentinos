@@ -356,6 +356,36 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "european-latinos",
+    "nombre": "We Are European Latinos",
+    "tipo": "Local físico",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Earlsfield, Londres",
+    "direccion": "182 Garratt Lane, London, SW18 4ED",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=182%20Garratt%20Lane%2C%20London%2C%20SW18%204ED",
+    "telefono": "020 3158 5703",
+    "sitioWeb": "https://deliveroo.co.uk/menu/london/wandsworth/we-are-european-latinos-garratt-lane",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@we_are_european_latinos"
+      }
+    ],
+    "productos": [
+      "Yerba mate",
+      "Alfajores",
+      "Dulce de leche",
+      "Productos latinoamericanos"
+    ],
+    "envios": "Delivery por Deliveroo y venta en el local (estacionamiento gratuito en la calle, Lydden Rd SW18 4LT)",
+    "horario": null,
+    "descripcion": "Delicatessen latino-mediterránea en Earlsfield, no exclusivamente argentina: trabaja con productos colombianos, ecuatorianos, peruanos, venezolanos, mexicanos, españoles, portugueses y brasileños. Entre sus productos argentinos tiene yerba mate, alfajores y dulce de leche.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.448266,
+    "longitude": -0.189758
+  },
+  {
     "id": "malo-empanadas",
     "nombre": "Malo Empanadas (3 locales)",
     "tipo": "Local físico",
