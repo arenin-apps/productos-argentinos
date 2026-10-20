@@ -352,6 +352,57 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "malo-empanadas",
+    "nombre": "Malo Empanadas (3 locales)",
+    "tipo": "Local físico",
+    "pais": "Inglaterra",
+    "county": "East Sussex",
+    "ciudad": "Brighton & Hove",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://malobrighton.co.uk/collections",
+    "redes": [],
+    "productos": [
+      "Empanadas",
+      "Alfajores",
+      "Yerba mate",
+      "Dulce de leche",
+      "Dulce de batata y membrillo",
+      "Chimichurri y condimentos"
+    ],
+    "envios": "Tienda online (ver condiciones de envío en su web) y venta en los locales",
+    "horario": null,
+    "descripcion": "Familia argentina de Brighton que empezó con el restaurante Baqueano Steakhouse y hoy tiene tres locales. Hace sus empanadas caseras y horneadas (más de 15 variedades) y en su sección Deli vende yerba Amanda y Taragüi, dulce de leche, dulce de batata y de membrillo, chimichurri casero, alfajores caseros y galletitas Chocolinas. Sus locales también figuran en la guía de restaurantes.",
+    "fechaAgregado": "2026-10-20",
+    "locales": [
+      {
+        "nombre": "Brighton (The Lanes)",
+        "direccion": "11 Duke Street, Brighton & Hove, BN1 1AH",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=11%20Duke%20Street%2C%20Brighton%20%26%20Hove%2C%20BN1%201AH",
+        "nota": "lun a sáb 11:00–18:00, dom 11:00–16:00",
+        "latitude": 50.822736,
+        "longitude": -0.142864
+      },
+      {
+        "nombre": "Kemptown",
+        "direccion": "90 St James Street, Brighton & Hove, BN2 1TP",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=90%20St%20James%20Street%2C%20Brighton%20%26%20Hove%2C%20BN2%201TP",
+        "nota": "lun a sáb 11:00–18:00, dom 11:00–16:00",
+        "latitude": 50.820602,
+        "longitude": -0.13311
+      },
+      {
+        "nombre": "Hove",
+        "direccion": "120 Porland Road, Brighton & Hove, BN3 5DN",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=120%20Porland%20Road%2C%20Brighton%20%26%20Hove%2C%20BN3%205DN",
+        "nota": "lun a sáb 10:00–17:00, dom 11:00–16:00",
+        "latitude": 50.832817,
+        "longitude": -0.182824
+      }
+    ]
+  },
+  {
     "id": "algerian-coffee-stores",
     "nombre": "Algerian Coffee Stores",
     "tipo": "Tienda online y local",
