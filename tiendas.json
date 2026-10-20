@@ -352,6 +352,35 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "patagonian-deli",
+    "nombre": "Patagonian Deli",
+    "tipo": "Pastelería y catering",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Barnet, Londres",
+    "direccion": "189 High Street, Barnet, London, EN5 5SU",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=189%20High%20Street%2C%20Barnet%2C%20London%2C%20EN5%205SU",
+    "telefono": "07714 140802",
+    "whatsapp": "+44 7714 140802",
+    "email": "info@patagoniandeli.co.uk",
+    "sitioWeb": "https://www.patagoniandeli.co.uk/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@patagoniandeli"
+      }
+    ],
+    "productos": [
+      "Pastelería",
+      "Delicatessen argentina",
+      "Catering"
+    ],
+    "envios": "Reparto a domicilio en Londres",
+    "horario": null,
+    "descripcion": "Pastelería artesanal de familia en el norte de Londres, de cocina argentino-francesa: tortas, masitas, brownies, entremets y gâteaux, con línea premium y tradicional. También hace catering y vende a restaurantes, cafés y tiendas gourmet. Los sábados está en mercados de Londres con su delicatessen dulce y salada argentina.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "bacanas",
     "nombre": "Bacanas",
     "tipo": "Tienda online",
