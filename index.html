@@ -467,6 +467,9 @@
     if (r.direccion) {
       html += `<div class="card-row"><span class="icon">📍</span><span>${r.mapsUrl ? `<a href="${r.mapsUrl}" target="_blank" rel="noopener">${r.direccion}</a>` : r.direccion}</span></div>`;
     }
+    if (r.locales && r.locales.length) {
+      html += r.locales.map(l => `<div class="card-row"><span class="icon">📍</span><span><strong>${l.nombre}:</strong> ${l.mapsUrl ? `<a href="${l.mapsUrl}" target="_blank" rel="noopener">${l.direccion}</a>` : l.direccion}${l.nota ? ' — ' + l.nota : ''}</span></div>`).join('');
+    }
     if (r.horario) {
       html += `<div class="card-row"><span class="icon">🕒</span><span>${r.horario}</span></div>`;
     }
@@ -517,9 +520,13 @@
 
   function render() {
     if (state.nearestMode && state.userCoords) {
+      const puntos = r => (r.locales && r.locales.length ? r.locales : [r]).filter(p => typeof p.latitude === 'number' && typeof p.longitude === 'number');
       const withDistance = state.data
-        .filter(r => typeof r.latitude === 'number' && typeof r.longitude === 'number')
-        .map(r => ({ r, km: distanceKm(state.userCoords.lat, state.userCoords.lon, r.latitude, r.longitude) }))
+        .map(r => {
+          const ds = puntos(r).map(p => ({ p, km: distanceKm(state.userCoords.lat, state.userCoords.lon, p.latitude, p.longitude) })).sort((a, b) => a.km - b.km);
+          return ds.length ? { r, km: ds[0].km, local: r.locales && r.locales.length ? ds[0].p.nombre : null } : null;
+        })
+        .filter(Boolean)
         .sort((a, b) => a.km - b.km)
         .slice(0, 10);
 
@@ -533,7 +540,7 @@
         return;
       }
       $empty.style.display = 'none';
-      $list.innerHTML = withDistance.map(({ r, km }) => renderCard(r, formatDistance(km))).join('');
+      $list.innerHTML = withDistance.map(({ r, km, local }) => renderCard(r, formatDistance(km) + (local ? ' · ' + local : ''))).join('');
       return;
     }
 

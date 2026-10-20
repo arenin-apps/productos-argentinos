@@ -266,6 +266,66 @@
     "longitude": -0.158976
   },
   {
+    "id": "de-nadas",
+    "nombre": "De Nadas (5 locales)",
+    "tipo": "Local físico",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": "020 4553 8070",
+    "sitioWeb": "https://denadas.co.uk/",
+    "redes": [],
+    "productos": [
+      "Empanadas",
+      "Vinos",
+      "Carnes"
+    ],
+    "envios": "Delivery metropolitano de Londres",
+    "horario": null,
+    "descripcion": "Empanadas horneadas, vinos y vermuts. En el local de Kew Gardens hay además mostrador de carnicería con carne argentina y chorizos criollos frescos. Sus 5 locales también figuran en la guía de restaurantes.",
+    "fechaAgregado": "2026-10-20",
+    "locales": [
+      {
+        "nombre": "Notting Hill",
+        "direccion": "61 Golborne Road, London, W10 5NR",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=61%20Golborne%20Road%2C%20London%2C%20W10%205NR",
+        "latitude": 51.522341,
+        "longitude": -0.207465
+      },
+      {
+        "nombre": "Shoreditch",
+        "direccion": "65 Rivington Street, London, EC2A 3QQ",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=65%20Rivington%20Street%2C%20London%2C%20EC2A%203QQ",
+        "latitude": 51.526294,
+        "longitude": -0.079912
+      },
+      {
+        "nombre": "Stoke Newington",
+        "direccion": "117 Stoke Newington Church Street, London, N16 0UD",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=117%20Stoke%20Newington%20Church%20Street%2C%20London%2C%20N16%200UD",
+        "latitude": 51.561943,
+        "longitude": -0.079522
+      },
+      {
+        "nombre": "Bethnal Green",
+        "direccion": "272 Poyser Street, London, E2 9RF",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=272%20Poyser%20Street%2C%20London%2C%20E2%209RF",
+        "latitude": 51.529878,
+        "longitude": -0.05675
+      },
+      {
+        "nombre": "Kew Gardens",
+        "direccion": "16 Station Parade, Kew, TW9 3PZ",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=16%20Station%20Parade%2C%20Kew%2C%20TW9%203PZ",
+        "nota": "con mostrador de carnicería",
+        "latitude": 51.476982,
+        "longitude": -0.285639
+      }
+    ]
+  },
+  {
     "id": "persa-mates-uk",
     "nombre": "Persa Mates UK",
     "tipo": "Venta por Instagram",
