@@ -352,6 +352,35 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "argentine-meat",
+    "nombre": "Argentine Meat",
+    "tipo": "Tienda online",
+    "pais": "Reino Unido",
+    "county": null,
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": "+44 7436 530901",
+    "whatsapp": "+44 7436 530901",
+    "email": "contact@argentinemeat.net",
+    "sitioWeb": "https://argentinemeat.shop/products/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@argentinemeatshop"
+      }
+    ],
+    "productos": [
+      "Carnes",
+      "Tapas de empanadas",
+      "Golosinas y dulces"
+    ],
+    "envios": "Todo el Reino Unido, en embalaje con temperatura controlada (envío £14,99)",
+    "horario": null,
+    "descripcion": "Empresa familiar fundada en 2021 que vende carne argentina de calidad y otras especialidades: ojo de bife, picaña, bife de chorizo, entraña, asado de tira, vacío, matambre, mollejas, chorizo criollo, morcilla, provoleta, tapas para empanadas, golosinas y dulces.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "patagonian-deli",
     "nombre": "Patagonian Deli",
     "tipo": "Pastelería y catering",
