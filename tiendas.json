@@ -121,8 +121,11 @@
     "ciudad": "Londres",
     "direccion": "Leather Lane Market, Street Pitch 88, London, EC1N 7RA",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leather%20Lane%20Market%2C%20Street%20Pitch%2088%2C%20London%2C%20EC1N%207RA",
-    "telefono": "+44 7895 997441",
-    "whatsapp": "+44 7743 189496",
+    "telefono": null,
+    "whatsapp": [
+      "+44 7895 997441",
+      "+44 7743 189496"
+    ],
     "sitioWeb": "https://argentalialondon.com/",
     "redes": [
       {
@@ -138,11 +141,15 @@
       "Empanadas",
       "Carnes",
       "Pastas",
-      "Panadería"
+      "Panadería",
+      "Catering",
+      "Sándwiches de miga",
+      "Facturas",
+      "Alfajores"
     ],
     "envios": "Con delivery (zona sin especificar)",
-    "horario": "Mar a vie 11:00–15:00",
-    "descripcion": "Puesto en Leather Lane Market con comida argentina e italiana: carnes a la parrilla, empanadas, tartas, panes y pasta fresca casera.",
+    "horario": null,
+    "descripcion": "Puesto en Leather Lane Market con comida argentina e italiana: carnes a la parrilla, empanadas, tartas, panes, pasta fresca casera, sándwiches de miga, facturas y alfajores. También hace catering.",
     "fechaAgregado": "2026-10-20",
     "latitude": 51.518355,
     "longitude": -0.108814
