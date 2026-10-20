@@ -352,6 +352,42 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "algerian-coffee-stores",
+    "nombre": "Algerian Coffee Stores",
+    "tipo": "Tienda online y local",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Soho, Londres",
+    "direccion": "52 Old Compton Street, Soho, London, W1D 4PB",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=52%20Old%20Compton%20Street%2C%20Soho%2C%20London%2C%20W1D%204PB",
+    "telefono": null,
+    "email": "sales@algcoffee.co.uk",
+    "sitioWeb": "https://algeriancoffeestores.com/collections/matcha-mate",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@algerian_coffee_stores"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "algeriancoffee"
+      }
+    ],
+    "productos": [
+      "Yerba mate",
+      "Mates y bombillas",
+      "Dulce de leche",
+      "Alfajores",
+      "Dulce de batata y membrillo"
+    ],
+    "envios": "Venta online (ver condiciones de envío en su web) y en el local",
+    "horario": null,
+    "descripcion": "Histórica tienda de café y té en pleno Soho que no es argentina pero vende yerba mate (Taragüi, Pajarito, Kraus orgánica), mates y bombillas, dulce de leche, alfajores, dulce de batata y dulce de membrillo.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.512985,
+    "longitude": -0.132269
+  },
+  {
     "id": "argentine-meat",
     "nombre": "Argentine Meat",
     "tipo": "Tienda online",
