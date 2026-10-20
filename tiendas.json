@@ -1,0 +1,316 @@
+[
+  {
+    "id": "casa-argentina",
+    "nombre": "Casa Argentina",
+    "tipo": "Tienda online y local",
+    "pais": "Inglaterra",
+    "county": "Surrey",
+    "ciudad": "Croydon",
+    "direccion": "Unit 3, 77 Sumner Road, Croydon, Surrey, CR0 3LN",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unit%203%2C%2077%20Sumner%20Road%2C%20Croydon%2C%20Surrey%2C%20CR0%203LN",
+    "telefono": "020 8540 1222",
+    "whatsapp": "+44 7506 013164",
+    "email": "info@casaargentina.com",
+    "sitioWeb": "https://casaargentina.com/",
+    "redes": [],
+    "productos": [
+      "Carnes",
+      "Empanadas",
+      "Dulce de leche",
+      "Alfajores",
+      "Yerba mate",
+      "Vinos",
+      "Chimichurri y condimentos"
+    ],
+    "envios": "Todo el Reino Unido",
+    "horario": "Lun a vie 9:00–17:00, sáb 10:00–16:00",
+    "descripcion": "Importador directo: carne argentina, chorizos criollos, empanadas caseras, dulce de leche, alfajores Havanna, yerba mate y vinos. Tiene local abierto al público en Croydon.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.381827,
+    "longitude": -0.109907
+  },
+  {
+    "id": "urushop",
+    "nombre": "UruShop",
+    "tipo": "Tienda online",
+    "pais": "Inglaterra",
+    "county": "Leicestershire",
+    "ciudad": "Leicester",
+    "direccion": "UruShop Ltd, 5A Morris Road, Leicester, LE2 6BR",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UruShop%20Ltd%2C%205A%20Morris%20Road%2C%20Leicester%2C%20LE2%206BR",
+    "telefono": null,
+    "email": "support@urushop.co.uk",
+    "sitioWeb": "https://urushop.co.uk/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@urushop"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "urushop"
+      },
+      {
+        "plataforma": "X",
+        "handle": "@urushop"
+      }
+    ],
+    "productos": [
+      "Yerba mate",
+      "Mates y bombillas",
+      "Dulce de leche",
+      "Alfajores"
+    ],
+    "envios": "Todo el Reino Unido (envío gratis desde £50)",
+    "horario": null,
+    "descripcion": "Negocio familiar especializado en yerba mate y productos sudamericanos: mates, bombillas, kits para empezar, dulce de leche y alfajores. Solo online, sin local abierto al público.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "chango-online",
+    "nombre": "Chango (tienda online)",
+    "tipo": "Tienda online",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.chango.co.uk/collections/almacen",
+    "redes": [],
+    "productos": [
+      "Empanadas",
+      "Alfajores",
+      "Almacén"
+    ],
+    "envios": "Todo el Reino Unido (envío gratis desde £60)",
+    "horario": null,
+    "descripcion": "Empanadas argentinas precocidas y congeladas por media docena, alfajores y una sección de almacén. Además tiene 9 locales en Londres (ver la guía de restaurantes).",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "patagonia-online",
+    "nombre": "Patagonia Online",
+    "tipo": "Tienda online",
+    "pais": "Reino Unido",
+    "county": null,
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://patagoniaonline.co.uk/",
+    "redes": [],
+    "productos": [
+      "Yerba mate",
+      "Dulce de leche",
+      "Alfajores",
+      "Vinos",
+      "Tapas de empanadas"
+    ],
+    "envios": "Todo el Reino Unido y algunos países de la UE",
+    "horario": null,
+    "descripcion": "Emprendimiento de sudamericanos en el Reino Unido. Vende yerba mate, dulce de leche, alfajores, tapas de empanadas y vinos argentinos con envío a todo el país.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "argentalia-london",
+    "nombre": "Argentalia London",
+    "tipo": "Puesto de mercado",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": "Leather Lane Market, Street Pitch 88, London, EC1N 7RA",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leather%20Lane%20Market%2C%20Street%20Pitch%2088%2C%20London%2C%20EC1N%207RA",
+    "telefono": "+44 7895 997441",
+    "whatsapp": "+44 7743 189496",
+    "sitioWeb": "https://argentalialondon.com/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@argentalialondon"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "argentalialondon"
+      }
+    ],
+    "productos": [
+      "Empanadas",
+      "Carnes",
+      "Pastas",
+      "Panadería"
+    ],
+    "envios": "Con delivery (zona sin especificar)",
+    "horario": "Mar a vie 11:00–15:00",
+    "descripcion": "Puesto en Leather Lane Market con comida argentina e italiana: carnes a la parrilla, empanadas, tartas, panes y pasta fresca casera.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.518355,
+    "longitude": -0.108814
+  },
+  {
+    "id": "portena-borough-market",
+    "nombre": "Porteña – Borough Market",
+    "tipo": "Puesto de mercado",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": "7A Stoney Street, Borough Market, London, SE1 9AA",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7A%20Stoney%20Street%2C%20Borough%20Market%2C%20London%2C%20SE1%209AA",
+    "telefono": null,
+    "sitioWeb": "https://www.portena.co.uk/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@portenauk"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "Portena.uk"
+      }
+    ],
+    "productos": [
+      "Empanadas",
+      "Alfajores",
+      "Yerba mate"
+    ],
+    "envios": "Venta en el puesto",
+    "horario": "Mar a sáb 9:00–22:00, dom 9:00–16:00 (lunes cerrado)",
+    "descripcion": "Comida callejera argentina en Borough Market: empanadas de varios rellenos, alfajores caseros con dulce de leche y yerba mate.",
+    "fechaAgregado": "2026-10-20",
+    "latitude": 51.505109,
+    "longitude": -0.091048
+  },
+  {
+    "id": "argentinian-foodies",
+    "nombre": "Argentinian Foodies",
+    "tipo": "Tienda online",
+    "pais": "Reino Unido",
+    "county": null,
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://argentinianfoodies.co.uk/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@argentinianfoodies"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "argentinianfoodies"
+      },
+      {
+        "plataforma": "TikTok",
+        "handle": "@argentinianfoodies"
+      }
+    ],
+    "productos": [
+      "Empanadas",
+      "Alfajores",
+      "Postres",
+      "Panadería"
+    ],
+    "envios": "Con envío (ver condiciones en su web)",
+    "horario": null,
+    "descripcion": "Negocio familiar de empanadas caseras con muchos rellenos (incluidos vegetarianos), alfajores, postres, bizcochitos, tortas de celebración y especialidades argentinas.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "sur-chocolates",
+    "nombre": "Sur Chocolates",
+    "tipo": "Tienda online",
+    "pais": "Inglaterra",
+    "county": "Buckinghamshire",
+    "ciudad": "Haddenham",
+    "direccion": "7 Millway Furlong, Haddenham, Buckinghamshire, HP17 8SD",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7%20Millway%20Furlong%2C%20Haddenham%2C%20Buckinghamshire%2C%20HP17%208SD",
+    "telefono": null,
+    "sitioWeb": "https://surchocolates.co.uk/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@sur.chocolates"
+      }
+    ],
+    "productos": [
+      "Alfajores",
+      "Chocolates"
+    ],
+    "envios": "Todo el Reino Unido",
+    "horario": null,
+    "descripcion": "Chocolatería artesanal creada por una pareja argentina: alfajores, trufas, barras y cajas de regalo, hechos en pequeños lotes y enviados en latas reutilizables.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "torre-distillery",
+    "nombre": "Torre Distillery – London Mate Dry Gin",
+    "tipo": "Destilería",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.torredistillery.com/londonmate",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@torredistillery"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "people/Torre-distillery/100088163572271"
+      }
+    ],
+    "productos": [
+      "Gin con yerba mate"
+    ],
+    "envios": "Se consigue en tiendas y bares seleccionados de Londres (lista en su web)",
+    "horario": null,
+    "descripcion": "Aníbal Torres, londinense con raíces argentinas, creó London Mate Dry Gin: un gin destilado en Londres con yerba mate, enebro y ocho botánicos más. Premiado en IWSC y Gin Masters.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "pampeano",
+    "nombre": "Pampeano",
+    "tipo": "Cuero y accesorios",
+    "pais": "Inglaterra",
+    "county": "Oxfordshire",
+    "ciudad": "Oxford",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.pampeano.com/",
+    "redes": [],
+    "productos": [
+      "Cinturones de cuero",
+      "Bolsos y accesorios"
+    ],
+    "envios": "Todo el Reino Unido (envío gratis desde £75)",
+    "horario": null,
+    "descripcion": "Cinturones, bolsos de viaje, billeteras y accesorios de cuero curtido vegetal hechos a mano por artesanos en Argentina, inspirados en la cultura del polo. Marca fundada en Oxford por una británica.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "patagonia-beef-uk",
+    "nombre": "Patagonia Beef UK",
+    "tipo": "Tienda online",
+    "pais": "Inglaterra",
+    "county": "East Sussex",
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://patagoniabeef.co.uk/",
+    "redes": [],
+    "productos": [
+      "Carnes",
+      "Vinos"
+    ],
+    "envios": "Solo East y West Sussex (pedido mínimo £25, envío gratis desde £75)",
+    "horario": null,
+    "descripcion": "Carnicería online de carne argentina de pastura, cajas de carne y vinos Malbec. Entrega solo en las ciudades principales de East y West Sussex.",
+    "fechaAgregado": "2026-10-20"
+  }
+]
