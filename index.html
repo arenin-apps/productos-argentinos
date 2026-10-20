@@ -476,9 +476,9 @@
     if (r.telefono) {
       html += `<div class="card-row"><span class="icon">📞</span><span style="font-family:'IBM Plex Mono',monospace;"><a href="tel:${r.telefono.replace(/\s+/g, '')}">${r.telefono}</a></span></div>`;
     }
-    // WhatsApp: se muestra solo como enlace para escribir, sin el número a la vista.
-    [].concat(r.whatsapp || []).forEach((w, i) => {
-      html += `<div class="card-row"><span class="icon">💬</span><span><a href="https://wa.me/${w.replace(/\D/g, '')}" target="_blank" rel="noopener">Escribir por WhatsApp${i > 0 ? ' (otro número)' : ''}</a></span></div>`;
+    // WhatsApp: se muestra el número asociado ("WhatsApp +44 …") como enlace directo para escribir.
+    [].concat(r.whatsapp || []).forEach(w => {
+      html += `<div class="card-row"><span class="icon">💬</span><span style="font-family:'IBM Plex Mono',monospace;"><a href="https://wa.me/${w.replace(/\D/g, '')}" target="_blank" rel="noopener">WhatsApp ${w}</a></span></div>`;
     });
     if (r.email) {
       html += `<div class="card-row"><span class="icon">✉️</span><span><a href="mailto:${r.email}">${r.email}</a></span></div>`;
