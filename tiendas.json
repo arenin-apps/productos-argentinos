@@ -352,6 +352,39 @@
     "fechaAgregado": "2026-10-20"
   },
   {
+    "id": "bacanas",
+    "nombre": "Bacanas",
+    "tipo": "Tienda online",
+    "pais": "Inglaterra",
+    "county": "Hertfordshire",
+    "ciudad": "Tring",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": "+44 7432 548386",
+    "whatsapp": "+44 7432 548386",
+    "sitioWeb": "https://bacanas.co.uk/shop/",
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@bacanasuk"
+      },
+      {
+        "plataforma": "Facebook",
+        "handle": "bacanasuk"
+      }
+    ],
+    "productos": [
+      "Chimichurri y condimentos",
+      "Mates y bombillas",
+      "Regalos",
+      "Tarjetas de regalo"
+    ],
+    "envios": "Venta online (ver condiciones de envío en su web); también vende a comercios",
+    "horario": null,
+    "descripcion": "Negocio familiar de Betsabe, argentina de Rosario radicada en Tring. Nació para hacer un chimichurri artesanal sin aditivos (con sal de la Patagonia y ajo de la Isla de Wight) y hoy su tienda suma salsas y marinadas, mates y accesorios, regalos para el hogar, una boutique y tarjetas de regalo.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "estribos",
     "nombre": "Estribos",
     "tipo": "Cuero y accesorios",
