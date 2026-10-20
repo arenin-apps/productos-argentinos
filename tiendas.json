@@ -266,6 +266,32 @@
     "longitude": -0.158976
   },
   {
+    "id": "persa-mates-uk",
+    "nombre": "Persa Mates UK",
+    "tipo": "Venta por Instagram",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": null,
+    "redes": [
+      {
+        "plataforma": "Instagram",
+        "handle": "@uk.persa.mates"
+      }
+    ],
+    "productos": [
+      "Yerba mate",
+      "Mates y bombillas"
+    ],
+    "envios": "Todo el Reino Unido (sin tienda web: se pide por mensaje directo de Instagram y catálogo por WhatsApp)",
+    "horario": null,
+    "descripcion": "Extensión en el Reino Unido de la marca sudamericana Persa Mates: yerba mate artesanal, mates y bombillas, con envíos a todo el país. Solo tiene Instagram, no tiene tienda web.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "torre-distillery",
     "nombre": "Torre Distillery – London Mate Dry Gin",
     "tipo": "Destilería",
