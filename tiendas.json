@@ -473,6 +473,86 @@
     "longitude": -0.132269
   },
   {
+    "id": "amathus-fernet",
+    "nombre": "Amathus Drinks (Fernet Branca)",
+    "tipo": "Tienda online (licores)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.amathusdrinks.com/fernet-branca",
+    "redes": [],
+    "productos": [
+      "Fernet Branca"
+    ],
+    "envios": "Todo el Reino Unido: envío £5,95 (gratis desde £125), entrega al día siguiente si se pide antes de las 14:00",
+    "horario": null,
+    "descripcion": "Distribuidora y tienda de bebidas de Londres que no es argentina. Vende el Fernet Branca de 70 cl (unos £28 en octubre de 2026, con descuento desde 6 botellas).",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "gerrys-fernet",
+    "nombre": "Gerry's Wines & Spirits (Fernet Branca)",
+    "tipo": "Tienda online (licores)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.gerrys.uk.com/fernet-branca",
+    "redes": [],
+    "productos": [
+      "Fernet Branca"
+    ],
+    "envios": "Todo el Reino Unido, con envío gratis desde £100",
+    "horario": null,
+    "descripcion": "Tienda de vinos y licores de Londres que no es argentina. Vende el Fernet Branca de 70 cl (unos £32 en octubre de 2026) y también el Fernet Branca Menta.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "twe-fernet",
+    "nombre": "The Whisky Exchange (Fernet Branca)",
+    "tipo": "Tienda online (licores)",
+    "pais": "Inglaterra",
+    "county": "Greater London",
+    "ciudad": "Londres",
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.thewhiskyexchange.com/p/5038/fernet-branca-liqueur-bitters",
+    "redes": [],
+    "productos": [
+      "Fernet Branca"
+    ],
+    "envios": "Todo el Reino Unido (ver condiciones en su web)",
+    "horario": null,
+    "descripcion": "Gran tienda online de bebidas con sede en Londres, no argentina. Vende el Fernet Branca de 70 cl (unos £30 en octubre de 2026).",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
+    "id": "waitrose-fernet",
+    "nombre": "Waitrose (Fernet Branca)",
+    "tipo": "Supermercado",
+    "pais": "Reino Unido",
+    "county": null,
+    "ciudad": null,
+    "direccion": null,
+    "mapsUrl": null,
+    "telefono": null,
+    "sitioWeb": "https://www.waitrose.com/ecom/products/fernet-branca-bitters/848414-805000-805001",
+    "redes": [],
+    "productos": [
+      "Fernet Branca"
+    ],
+    "envios": "Compra online con entrega o retiro en tienda, según tu código postal",
+    "horario": null,
+    "descripcion": "Cadena de supermercados británica, no argentina. Vende el Fernet Branca de 70 cl (unos £27,50 en octubre de 2026), con retiro o entrega según la zona.",
+    "fechaAgregado": "2026-10-20"
+  },
+  {
     "id": "argentine-meat",
     "nombre": "Argentine Meat",
     "tipo": "Tienda online",
