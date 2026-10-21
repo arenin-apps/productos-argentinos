@@ -268,6 +268,11 @@
   }
   .visit:hover { background: var(--celeste-bright); }
 
+  .actions { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 18px; margin-top: 14px; }
+  .actions .visit { margin-top: 0; }
+  .report { font-size: 12px; color: var(--text-faint); text-decoration: underline; text-underline-offset: 3px; }
+  .report:hover { color: var(--celeste); }
+
   .empty { text-align: center; padding: 70px 20px; color: var(--text-faint); }
   .empty .big { font-size: 34px; margin-bottom: 10px; }
   .empty p { margin: 4px 0; }
@@ -499,9 +504,11 @@
         html += `</div>`;
       }
     }
+    html += '<div class="actions">';
     if (r.sitioWeb) {
       html += `<a class="visit" href="${r.sitioWeb}" target="_blank" rel="noopener">Visitar tienda →</a>`;
     }
+    html += `<a class="report" href="https://arenin.uk/reportar-un-error/?tienda=${encodeURIComponent(r.nombre)}" target="_blank" rel="noopener">⚠ Reportar un error</a></div>`;
     html += `</div>`;
     return html;
   }
